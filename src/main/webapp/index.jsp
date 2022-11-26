@@ -7,7 +7,7 @@
 </head>
 <body>
   <div class="jumbotron" style="background-color:white">
-      <img src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat"
+      <img src="https://octodex.github.com/images/NUX_Octodex.gif" alt="NUX_Octodex"
            class="img-responsive center-block" style="width:250px"/>
       <h2 class="text-center">Hello Everyone</h2>
       <p class="text-center">Hello, My name is Pravin </p>
