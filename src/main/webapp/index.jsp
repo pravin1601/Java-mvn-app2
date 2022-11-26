@@ -10,7 +10,7 @@
       <img src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
       <h2 class="text-center">Hello Everyone</h2>
-      <p class="text-center">Hello, I am Pravin </p>
+      <p class="text-center">Hello, My name is Arpita and I have no brain </p>
   </div>
 </body>
 </html>
